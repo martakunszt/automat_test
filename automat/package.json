@@ -1,0 +1,14 @@
+{
+  "name": "automationtest",
+  "version": "1.0.0",
+  "description": "trying automation webdriverIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marps",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^8.14.3"
+  }
+}
